@@ -1,0 +1,38 @@
+{
+  "name": "rad-to-deg-cli",
+  "version": "1.0.0",
+  "description": "rad to deg in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/rad-to-deg-cli.git"
+  },
+  "keywords": [
+    "deg",
+    "rad",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/rad-to-deg-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/rad-to-deg-cli#readme",
+  "bin": {
+    "rad-to-deg-cli": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
